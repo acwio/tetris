@@ -1,0 +1,1 @@
+window.tetris=new window.Grid('js-tetris');
